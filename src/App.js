@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import EvenHandler from './EvenHandler';
+// import EvenHandler from './EvenHandler';
+import Styled_compontent from './Styled_compontent';
 // import To from './To';
 
 // const collection =[{
@@ -31,7 +32,8 @@ function App(){
 return(
    <div>
        {/* <To collection = {collection}/> */}
-       <EvenHandler/>
+       {/* <EvenHandler/> */}
+       <Styled_compontent/>
   </div>
 )
 }
