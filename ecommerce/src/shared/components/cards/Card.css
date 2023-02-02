@@ -1,0 +1,19 @@
+#card {
+  /* width: 350px; */
+  text-align: center;
+  align-items: center;
+  background: #f7f7f7;
+}
+
+#sideicon {
+  background: #d1d1d1bd;
+  /* padding: 0px; */
+  border-radius: 12px;
+}
+
+#card_body {
+  width: 100%;
+  background: white;
+
+  text-align: initial;
+}
