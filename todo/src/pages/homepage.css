@@ -1,0 +1,19 @@
+li{
+
+    width: 400px;
+}
+input,span{
+
+    position: relative;
+    z-index: 999;
+}
+img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    z-index: 999;
+}
+.line-through{
+
+    text-decoration: line-through;
+}
